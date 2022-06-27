@@ -6,7 +6,7 @@ Portfolio repository for CS-360: Mobile Architect & Programming
 
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
-  This application was designed to be a weight-tracking application with at least 3 screens: Login, view daily weight, and enter daily weight. This application was for users who would like to set and work towards a personal weight goal of their choosing. While the design of my app was completed, I ran out of time to actually finish the development of the application. However, the design and App Release Plan are solid.
+  This application was designed to be a weight-tracking application with at least 3 screens: Login, view daily weight, and enter daily weight. This application was for users who would like to set and work towards a personal weight goal of their choosing. While the design of my app was completed, I ran out of time to initally create the launch plan. However, the application and fundamental framework is solid.
 
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 
